@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.question-card {
+  background-color: rgb(108, 51, 240);
+  padding: 20px;
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+  box-shadow: 4px 4px 20px 0px #2d2264;
+}
+
+ul{
+  list-style: none;
+}
+li{
+  background-color: white;
+  padding: 10px;
+  border: solid gold 1px;
+  font-size: 16px;
+  margin-top: 1%;
+}
+.question-header{
+  font-size: 3rem;
+}
+.question-text{
+  margin-bottom: 5%;
+  font-size: 1.5rem;
+}
+
+.final-results{
+  background-color: rgb(108, 51, 240);
+  padding: 20px;
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  box-shadow: 4px 4px 20px 0px #2d2264;
+
+}
