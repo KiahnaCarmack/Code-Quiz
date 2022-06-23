@@ -7,6 +7,11 @@ function App() {
   const [finalResults, setFinalResults] = useState(false);
   const [score, setScore] = useState(0);
   const [currentQuestion, setCurrentQuestion] = useState(0);
+  const restart = () => {
+    setScore(0);
+    setCurrentQuestion(0);
+    setFinalResults(false);
+  }
   
   const questions = [
     {
@@ -162,8 +167,8 @@ return (
         {finalResults ? (
           <div className="final-results">
             <h1>Final Results</h1>
-            <h2> 1 out of 10 correct - ( 20%)</h2>
-            <button>Restart</button>
+            <h2> {score} out of {questions.length} - ({(score/questions.length) *100}%)</h2>
+            <button onClick={() => restart()}>Restart</button>
           </div>
         ) : (
           <div className="question-card">
