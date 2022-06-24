@@ -7,7 +7,7 @@ In this code quiz challenge, the user will be prompted with a series of 10 quest
 
 ## Contributions
 
->developed by: Kiahna Carmack
+>developed by: Kiahna Carmack<
 >Contact: kiahna.carmack@gmail.com
 
 ## Preview- Code Quiz
