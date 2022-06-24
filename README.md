@@ -7,3 +7,9 @@ This application heavily utilizes React.js + Css
 ## Contributions
 
 The Code Quiz app was developed and deployed by myself, Kiahna Carmack.
+
+## Preview- Code Quiz
+<img width="1437" alt="Screen Shot 2022-06-24 at 2 54 45 PM" src="https://user-images.githubusercontent.com/101783888/175698090-8e816912-5054-45aa-b2bf-266284f39f45.png">
+
+## Preview- Final Score
+<img width="1437" alt="Screen Shot 2022-06-24 at 2 55 16 PM" src="https://user-images.githubusercontent.com/101783888/175698142-cf01e608-8968-4773-a618-3fde866ddecd.png">
