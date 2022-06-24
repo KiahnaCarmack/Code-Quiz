@@ -7,8 +7,8 @@ In this code quiz challenge, the user will be prompted with a series of 10 quest
 
 ## Contributions
 
-developed by: Kiahna Carmack
-Contact: kiahna.carmack@gmail.com
+>developed by: Kiahna Carmack
+>Contact: kiahna.carmack@gmail.com
 
 ## Preview- Code Quiz
 <img width="1437" alt="Screen Shot 2022-06-24 at 2 54 45 PM" src="https://user-images.githubusercontent.com/101783888/175698090-8e816912-5054-45aa-b2bf-266284f39f45.png">
